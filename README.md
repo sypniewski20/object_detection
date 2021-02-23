@@ -14,9 +14,9 @@ Final stage consisted of running trained **ssd mobilenet v2** with TensorFlow ob
 ## Output:
 Final results are located under https://drive.google.com/drive/folders/1mlFu8W7NAF9CJlgPxMNseEgGXSEfEo-u?usp=sharing
 
-**room/** contains test run with off-the-shelf **ssd mobilenet v2** trained on COCO (https://cocodataset.org/#home)
+**room/** contains test run with off-the-shelf **ssd mobilenet v2** and **mask rcnn** trained on COCO (https://cocodataset.org/#home)
 
-**sperm_count** contains final results of the project
+**sperm_count** contains final results of the project using **ssd mobilenet v2**
 
 
 
