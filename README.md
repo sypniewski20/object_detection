@@ -9,7 +9,7 @@ Training and test data was prepared using 50 snapshots from several videos and t
 Training process was performed with transfer learning aproach on model **ssd mobilenet v2** in Google Colab (object_detection.ipynb)
 
 ## Detection:
-Final stage consisted of running trained **ssd mobilenet v2** with https://github.com/ahmetozlu/tensorflow_object_counting_api
+Final stage consisted of running trained **ssd mobilenet v2** with TensorFlow object counting API https://github.com/ahmetozlu/tensorflow_object_counting_api
 
 ## Output:
 Final results are located under https://drive.google.com/drive/folders/1mlFu8W7NAF9CJlgPxMNseEgGXSEfEo-u?usp=sharing
